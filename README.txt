@@ -1,5 +1,5 @@
 Project 1 - Java Guessing Games
-CSCI 209 Fall 2020
+CSCI 209 Fall 2019
 By Harry Pinkerton
 Required to run: JDK 14.01.1
 
